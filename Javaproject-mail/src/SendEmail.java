@@ -13,10 +13,10 @@ public class SendEmail
    public static void main(String [] args)  
    {     
       // email ID of Recipient. 
-      String recipient = "abhisundar@msn.com"; 
+      String recipient = "test@msn.com"; 
   
       // email ID of  Sender. 
-      String sender = "sundarmanju@gmail.com"; 
+      String sender = "test123@gmail.com"; 
   
       // using host as localhost 
       String host = "127.0.0.1"; 
